@@ -1,4 +1,4 @@
-# DerivativePricer: Barrier Option Pricing Engine
+# DerivativePricer: Barrier Option Pricer
 
 A Python library for computing the theoretical price of single barrier options using closed-form solutions under the Black-Scholes framework.
 
